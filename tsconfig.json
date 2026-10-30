@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "bin",
+    "sourceMap": true,
+    "target": "ES2022",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["node"]
+  },
+  "include": ["index.ts", "components/**/*.ts"]
+}

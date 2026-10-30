@@ -1,0 +1,3 @@
+config:
+  guestbook-monitoring:isMinikube: "true"
+encryptionsalt: v1:ppBttKy0XK4=:v1:cGjNebnAdh847Zkx:VQg8TEFf0wdC8PBa6nJQ/LiFWC3FAA==
